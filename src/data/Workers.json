@@ -1,0 +1,22 @@
+{
+  "Workers": [
+    {
+      "id": "1",
+      "name": "kv",
+      "age": 25,
+      "position": "seller"
+    },
+    {
+      "id": "2",
+      "name": "kumar",
+      "age": 45,
+      "position": "labour"
+    },
+    {
+      "id": "3",
+      "name": "rani",
+      "age": 45,
+      "position": "labour"
+    }
+  ]
+}
